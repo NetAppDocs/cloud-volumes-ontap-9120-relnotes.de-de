@@ -131,7 +131,7 @@ Umgekehrt können Sie bei einer Implementierung von Cloud Volumes ONTAP auf eine
 
 . Eine hohe Schreibgeschwindigkeit wird bei allen Instanztypen unterstützt, wenn ein System mit einem einzelnen Node verwendet wird. Sie können während der Implementierung oder zu einem beliebigen Zeitpunkt nach der Implementierung eine hohe Schreibgeschwindigkeit von BlueXP  aktivieren. https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-write-speed.html["Erfahren Sie mehr über die Auswahl einer Schreibgeschwindigkeit"^].
 . Bei Verwendung von SSDs ist die verbesserte Schreib-Performance aktiviert.
-. Informationen zur Unterstützung von Azure-Regionen finden Sie unter https://cloud.netapp.com/cloud-volumes-global-regions["Cloud Volumes Regionen Weltweit"^].
+. Informationen zur Unterstützung von Azure-Regionen finden Sie unter https://bluexp.netapp.com/cloud-volumes-global-regions["Cloud Volumes Regionen Weltweit"^].
 . Cloud Volumes ONTAP kann auf einer reservierten oder On-Demand-VM-Instanz beim Cloud-Provider ausgeführt werden. Lösungen, die andere VM-Instanztypen nutzen, werden nicht unterstützt.
 
 
@@ -213,7 +213,7 @@ Hinweise:
 . Cloud Volumes ONTAP unterstützt bei der Verwendung eines HA-Paars eine hohe Schreibgeschwindigkeit mit diesen VM-Typen. Sie können während der Implementierung oder zu einem beliebigen Zeitpunkt nach der Implementierung eine hohe Schreibgeschwindigkeit von BlueXP  aktivieren. https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-write-speed.html["Erfahren Sie mehr über die Auswahl einer Schreibgeschwindigkeit"^].
 . Diese VM wird nur empfohlen, wenn die Azure-Wartungskontrolle erforderlich ist. Aufgrund der höheren Preise wird dies nicht für andere Anwendungsfälle empfohlen.
 . PAYGO Explore wird nicht bei HA-Paaren in Azure unterstützt.
-. Informationen zur Unterstützung von Azure-Regionen finden Sie unter https://cloud.netapp.com/cloud-volumes-global-regions["Cloud Volumes Regionen Weltweit"^].
+. Informationen zur Unterstützung von Azure-Regionen finden Sie unter https://bluexp.netapp.com/cloud-volumes-global-regions["Cloud Volumes Regionen Weltweit"^].
 . Cloud Volumes ONTAP kann auf einer reservierten oder On-Demand-VM-Instanz beim Cloud-Provider ausgeführt werden. Lösungen, die andere VM-Instanztypen nutzen, werden nicht unterstützt.
 
 
